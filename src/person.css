@@ -1,0 +1,15 @@
+.person {
+    width: 350px;
+
+}
+
+.personDiv {
+    margin: 10px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
